@@ -1,0 +1,17 @@
+cff-version: 1.2.0
+message: "If you use this figure package, please cite the associated manuscript and this software record."
+title: "Figure reproducibility package for Multiple chiral Majorana states in proximitized magnetic topological insulator heterostructures"
+type: software
+authors:
+  - given-names: "Alejandro S."
+    family-names: "Gómez"
+    orcid: "https://orcid.org/0009-0001-1117-4490"
+  - given-names: "Rafael A."
+    family-names: "Molina"
+    orcid: "https://orcid.org/0000-0001-5728-0734"
+  - given-names: "Pablo"
+    family-names: "Burset"
+    orcid: "https://orcid.org/0000-0001-5726-0485"
+  - given-names: "Yuriko"
+    family-names: "Baba"
+    orcid: "https://orcid.org/0000-0003-0647-3477"

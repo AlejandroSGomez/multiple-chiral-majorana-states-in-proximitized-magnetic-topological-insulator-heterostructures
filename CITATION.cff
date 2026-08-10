@@ -2,6 +2,11 @@ cff-version: 1.2.0
 message: "If you use this figure package, please cite the associated manuscript and this software record."
 title: "Figure reproducibility package for Multiple chiral Majorana states in proximitized magnetic topological insulator heterostructures"
 type: software
+version: "1.0.0"
+date-released: "2026-08-10"
+repository-code: "https://github.com/AlejandroSGomez/multiple-chiral-majorana-states-in-proximitized-magnetic-topological-insulator-heterostructures"
+url: "https://github.com/AlejandroSGomez/multiple-chiral-majorana-states-in-proximitized-magnetic-topological-insulator-heterostructures"
+license: MIT
 authors:
   - given-names: "Alejandro S."
     family-names: "Gómez"

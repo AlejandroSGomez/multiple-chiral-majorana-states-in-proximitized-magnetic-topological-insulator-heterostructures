@@ -17,7 +17,7 @@ PUBLISHED_FIGURES = {
     "OverleafGit/Fig3.pdf": "Fig3.pdf",
     "OverleafGit/Fig4.pdf": "Fig4.pdf",
     "OverleafGit/Fig5.pdf": "Fig5.pdf",
-    "OverleafGit/Fig6bis.pdf": "Fig6.pdf",
+    "OverleafGit/Fig6.pdf": "Fig6.pdf",
     "OverleafGit/FigTrilayerMP_sketch.pdf": "Fig7.pdf",
     "OverleafGit/FigA1.pdf": "FigA1.pdf",
     "OverleafGit/FigA2.pdf": "FigA2.pdf",

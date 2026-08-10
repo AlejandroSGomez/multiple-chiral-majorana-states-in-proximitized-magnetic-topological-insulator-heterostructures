@@ -71,3 +71,14 @@ Figures 1 and 6 include manual Keynote composition. Their editable sources,
 schematic assets, and final PDFs are included so this boundary remains
 explicit. No claim of bitwise-identical numerical recomputation is made.
 
+## Citation
+
+Please cite the associated manuscript and this repository. Machine-readable
+citation metadata are provided in `CITATION.cff`.
+
+## License
+
+Source code is released under the MIT License. Processed data, figures,
+documentation, and manual composition sources are released under the Creative
+Commons Attribution 4.0 International License (CC BY 4.0). See `LICENSE` for
+the file-level scope and attribution requirements.

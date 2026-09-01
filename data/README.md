@@ -48,6 +48,3 @@ The `source` field in `fig05_winding_counts.npz` is
 were transcribed from the earlier SVG when the raw calculation was
 unavailable.
 
-SHA-256 hashes for distributed files are stored in
-`../checksums.sha256`. Run `make verify` to check them.
-

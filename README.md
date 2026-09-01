@@ -28,7 +28,7 @@ conda activate sc-hcn-reproducibility
 Run
 
 ```bash
-make figures
+python scripts/make_all.py
 ```
 
 to generate the figures from the processed data. The output is written to
@@ -47,5 +47,3 @@ included in `manual_sources/`.
 - `data/processed/`: processed data used by the plotting scripts.
 - `figures/`: generated figures and the final versions used in the paper.
 - `manual_sources/`: Keynote sources for Figures 1 and 6.
-
-Run `make verify` to check the files and data included in the repository.

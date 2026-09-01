@@ -233,7 +233,6 @@ def main() -> None:
     combine_figure_A3_map(workspace_root, data_dir)
     copy_manual_sources(workspace_root, release_root / "manual_sources")
     print(f"Prepared release data in {release_root}")
-    print("Run `make checksums` to refresh the immutable-asset manifest.")
 
 
 if __name__ == "__main__":
